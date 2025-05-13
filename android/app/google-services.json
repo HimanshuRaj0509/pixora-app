@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527739802920",
+    "project_id": "socialappdemo-84fe3",
+    "storage_bucket": "socialappdemo-84fe3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527739802920:android:8d5d064daf4a0004236c1d",
+        "android_client_info": {
+          "package_name": "com.example.pixora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1oEgJm7WB_BRb_fQAfcWWbR2Av7kMJ6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -43,4 +43,4 @@ app.*.map.json
 /android/app/release
 
 # 🔒 Secret config file — DO NOT TRACK
-lib/firebase_options.dart
+lib/config/firebase_options.dart
